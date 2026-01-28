@@ -1,0 +1,29 @@
+{
+    "version": "1.0.0-rc.1",
+    "description": "Terminal-based internet radio player",
+    "homepage": "https://tera.codewithshin.com/",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/shinokada/tera/releases/download/v1.0.0-rc.1/tera_1.0.0-rc.1_windows_amd64.zip",
+            "hash": "0847eb3d71379a1df56d98f8fef01735ac86763d9b95999ffeb991d12826d1fe"
+        },
+        "arm64": {
+            "url": "https://github.com/shinokada/tera/releases/download/v1.0.0-rc.1/tera_1.0.0-rc.1_windows_arm64.zip",
+            "hash": "efdf74328949d6cadd3bd2145e4c43212114722df14478cac3735e21c021d01a"
+        }
+    },
+    "bin": "tera.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/shinokada/tera/releases/download/v$version/tera_$version_windows_amd64.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/shinokada/tera/releases/download/v$version/tera_$version_windows_arm64.zip"
+            }
+        }
+    },
+    "notes": "Requires mpv to be installed. Install with: scoop install mpv"
+}
