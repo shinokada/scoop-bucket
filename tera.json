@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0-rc.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/shinokada/tera/releases/download/v1.0.0-rc.6/tera_1.0.0-rc.6_windows_amd64.zip",
+            "bin": [
+                "tera.exe"
+            ],
+            "hash": "6b78d3132f4a0ba7d32010916b808c3386c6739b646f2b7248116a8c36684d92"
+        },
+        "arm64": {
+            "url": "https://github.com/shinokada/tera/releases/download/v1.0.0-rc.6/tera_1.0.0-rc.6_windows_arm64.zip",
+            "bin": [
+                "tera.exe"
+            ],
+            "hash": "90f65201c5e4a54bd5c677e29311c3a6e15377ca5a8c76615e5ba3f983e6e731"
+        }
+    },
+    "homepage": "https://github.com/shinokada/tera",
+    "license": "MIT",
+    "description": "Terminal-based internet radio player"
+}
