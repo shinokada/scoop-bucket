@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shinokada/tera/releases/download/v1.0.0-rc.1/tera_1.0.0-rc.1_windows_amd64.zip",
-            "hash": "0847eb3d71379a1df56d98f8fef01735ac86763d9b95999ffeb991d12826d1fe"
+            "url": "https://github.com/shinokada/tera/releases/download/v1.0.0-rc.2/tera_1.0.0-rc.2_windows_amd64.zip",
+            "hash": "6e45242cfb15db7f77c67cd1c017da531fab223f256ffceda54b456042e3f5b9"
         },
         "arm64": {
-            "url": "https://github.com/shinokada/tera/releases/download/v1.0.0-rc.1/tera_1.0.0-rc.1_windows_arm64.zip",
-            "hash": "efdf74328949d6cadd3bd2145e4c43212114722df14478cac3735e21c021d01a"
+            "url": "https://github.com/shinokada/tera/releases/download/v1.0.0-rc.2/tera_1.0.0-rc.2_windows_arm64.zip",
+            "hash": "9cdc8899da8e50efacc6c8148843db4bc716ce0ca559760d60f5058ce6939d1e"
         }
     },
     "bin": "tera.exe",
