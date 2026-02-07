@@ -6,14 +6,14 @@
             "bin": [
                 "tera.exe"
             ],
-            "hash": "89b45e64861691c3dd18d6159e4266c08e05b140359ccb5535b310bb11ed1195"
+            "hash": "c1151532ad6268e2d6467ca0e15a3ce94acd8173d96e230b112d5dbf47a0602f"
         },
         "arm64": {
             "url": "https://github.com/shinokada/tera/releases/download/v2.0.0/tera_2.0.0_windows_arm64.zip",
             "bin": [
                 "tera.exe"
             ],
-            "hash": "b5dc7883f1a3254d4ce2d6da0a83acb3ed47029edd6ea0e7c053dc42aea24cb4"
+            "hash": "a6613c62773419cb185145042103efc35e7113af48a6cbb3c2d0dc6b3e4e1ce2"
         }
     },
     "homepage": "https://github.com/shinokada/tera",
