@@ -1,19 +1,19 @@
 {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shinokada/tera/releases/download/v2.0.0/tera_2.0.0_windows_amd64.zip",
+            "url": "https://github.com/shinokada/tera/releases/download/v3.0.0/tera_3.0.0_windows_amd64.zip",
             "bin": [
                 "tera.exe"
             ],
-            "hash": "c1151532ad6268e2d6467ca0e15a3ce94acd8173d96e230b112d5dbf47a0602f"
+            "hash": "8ccdcddec1bae4068173577b733956e69bd47d662c98c24008368dd5397e4355"
         },
         "arm64": {
-            "url": "https://github.com/shinokada/tera/releases/download/v2.0.0/tera_2.0.0_windows_arm64.zip",
+            "url": "https://github.com/shinokada/tera/releases/download/v3.0.0/tera_3.0.0_windows_arm64.zip",
             "bin": [
                 "tera.exe"
             ],
-            "hash": "a6613c62773419cb185145042103efc35e7113af48a6cbb3c2d0dc6b3e4e1ce2"
+            "hash": "6160aa0ed93390583375eb4245a548c66a6923042a8fcd774beec9f32ee83ac4"
         }
     },
     "homepage": "https://github.com/shinokada/tera",
