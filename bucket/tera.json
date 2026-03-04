@@ -1,16 +1,16 @@
 {
-    "version": "1.0.0-rc.1",
+    "version": "3.6.1",
     "description": "Terminal-based internet radio player",
     "homepage": "https://tera.codewithshin.com/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shinokada/tera/releases/download/v1.0.0-rc.2/tera_1.0.0-rc.2_windows_amd64.zip",
-            "hash": "6e45242cfb15db7f77c67cd1c017da531fab223f256ffceda54b456042e3f5b9"
+            "url": "https://github.com/shinokada/tera/releases/download/v3.6.1/tera_3.6.1_windows_amd64.zip",
+            "hash": "363732cc6e312a42846157686a3a75f06ea58d0cfccf9a776d844fb8f2440c23"
         },
         "arm64": {
-            "url": "https://github.com/shinokada/tera/releases/download/v1.0.0-rc.2/tera_1.0.0-rc.2_windows_arm64.zip",
-            "hash": "9cdc8899da8e50efacc6c8148843db4bc716ce0ca559760d60f5058ce6939d1e"
+            "url": "https://github.com/shinokada/tera/releases/download/v3.6.1/tera_3.6.1_windows_arm64.zip",
+            "hash": "35a675d26cc75accb68662e4c0a838a68577090217e809dc5ccac1b4b39b2dae"
         }
     },
     "bin": "tera.exe",
