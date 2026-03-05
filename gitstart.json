@@ -1,0 +1,22 @@
+{
+    "version": "1.0.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/shinokada/gitstart/releases/download/v1.0.3/gitstart_1.0.3_windows_amd64.zip",
+            "bin": [
+                "gitstart.exe"
+            ],
+            "hash": "d4ca250c7404e33663b510dbe637707e38dc1e699c0048f9e980903127153894"
+        },
+        "arm64": {
+            "url": "https://github.com/shinokada/gitstart/releases/download/v1.0.3/gitstart_1.0.3_windows_arm64.zip",
+            "bin": [
+                "gitstart.exe"
+            ],
+            "hash": "b7b56bb2653b7261aa7fbccb4c80de376d2c3762729ed7fa7a90128062f34c2e"
+        }
+    },
+    "homepage": "https://github.com/shinokada/gitstart",
+    "license": "MIT",
+    "description": "A CLI tool for git project initialization."
+}
