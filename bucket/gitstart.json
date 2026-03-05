@@ -1,19 +1,19 @@
 {
-    "version": "1.0.5",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shinokada/gitstart/releases/download/v1.0.5/gitstart_1.0.5_windows_amd64.zip",
+            "url": "https://github.com/shinokada/gitstart/releases/download/v1.1.0/gitstart_1.1.0_windows_amd64.zip",
             "bin": [
                 "gitstart.exe"
             ],
-            "hash": "949c33cf332d1031e06d5144debce59b15c62d85e19554d0061fdcc1b9c996df"
+            "hash": "a2739eec3299e580a6a8569ac7a2b663f427db3d073a7b1db8d9a0496da24084"
         },
         "arm64": {
-            "url": "https://github.com/shinokada/gitstart/releases/download/v1.0.5/gitstart_1.0.5_windows_arm64.zip",
+            "url": "https://github.com/shinokada/gitstart/releases/download/v1.1.0/gitstart_1.1.0_windows_arm64.zip",
             "bin": [
                 "gitstart.exe"
             ],
-            "hash": "16b70e55ff4cbd261132329c79f1ed504f2632ccb2bec0d7f03894d28eaf72b8"
+            "hash": "0442416e6ff22f9a371db3471464d3491663eb938bf512726bfbe09929ccc3b3"
         }
     },
     "homepage": "https://github.com/shinokada/gitstart",
