@@ -1,29 +1,22 @@
 {
-    "version": "3.6.1",
-    "description": "Terminal-based internet radio player",
-    "homepage": "https://tera.codewithshin.com/",
-    "license": "MIT",
+    "version": "3.9.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shinokada/tera/releases/download/v3.6.1/tera_3.6.1_windows_amd64.zip",
-            "hash": "363732cc6e312a42846157686a3a75f06ea58d0cfccf9a776d844fb8f2440c23"
+            "url": "https://github.com/shinokada/tera/releases/download/v3.9.0/tera_3.9.0_windows_amd64.zip",
+            "bin": [
+                "tera.exe"
+            ],
+            "hash": "4079e9f89e858e91369b7d45c7f6ce4de46b7ac0d553601004440b528876e4b3"
         },
         "arm64": {
-            "url": "https://github.com/shinokada/tera/releases/download/v3.6.1/tera_3.6.1_windows_arm64.zip",
-            "hash": "35a675d26cc75accb68662e4c0a838a68577090217e809dc5ccac1b4b39b2dae"
+            "url": "https://github.com/shinokada/tera/releases/download/v3.9.0/tera_3.9.0_windows_arm64.zip",
+            "bin": [
+                "tera.exe"
+            ],
+            "hash": "405d30c112ad54473bcc460a51444dd9059673b356131be1666d1d62d5461c99"
         }
     },
-    "bin": "tera.exe",
-    "checkver": "github",
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://github.com/shinokada/tera/releases/download/v$version/tera_$version_windows_amd64.zip"
-            },
-            "arm64": {
-                "url": "https://github.com/shinokada/tera/releases/download/v$version/tera_$version_windows_arm64.zip"
-            }
-        }
-    },
-    "notes": "Requires mpv to be installed. Install with: scoop install mpv"
+    "homepage": "https://tera.codewithshin.com/",
+    "license": "MIT",
+    "description": "Terminal-based internet radio player"
 }
