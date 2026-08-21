@@ -1,19 +1,19 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shinokada/svelte-next/releases/download/v1.0.1/svelte-next_1.0.1_windows_amd64.zip",
+            "url": "https://github.com/shinokada/svelte-next/releases/download/v1.0.3/svelte-next_1.0.3_windows_amd64.zip",
             "bin": [
                 "svelte-next.exe"
             ],
-            "hash": "978e2b2bb1aa0f1d1a27a78561613043994b7a3a428c2c487d73e80157079a72"
+            "hash": "3ce62cfee70e0f24bae35117c78524a8b2582eb17094563fbd5874bd0ee355c5"
         },
         "arm64": {
-            "url": "https://github.com/shinokada/svelte-next/releases/download/v1.0.1/svelte-next_1.0.1_windows_arm64.zip",
+            "url": "https://github.com/shinokada/svelte-next/releases/download/v1.0.3/svelte-next_1.0.3_windows_arm64.zip",
             "bin": [
                 "svelte-next.exe"
             ],
-            "hash": "526c48de5b8d80bfed18dfb98fbea95efdfc2a4d4d747661658a2e716cf43153"
+            "hash": "343b8304e50662ba65276bdac07bd8d47b914cf00f5f392ff46c7c135ac9bdba"
         }
     },
     "homepage": "https://github.com/shinokada/svelte-next",
